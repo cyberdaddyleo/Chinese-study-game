@@ -1,21 +1,64 @@
-MIT License
+竹林语文大作战非商业使用许可协议 v1.0
+Bamboo Hanzi Battle Non-Commercial Source License v1.0
 
-Copyright (c) 2026 赛博老爸
+Copyright (c) 2026 赛博老爸（cyberdaddyleo）
+发布日期：2026-11-12
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+一、适用范围
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+本协议适用于随附本协议发布的 Chinese-study-game（竹林语文大作战）
+项目代码、作者原创资源及文档，以下统称“本软件”。第三方组件、字体、
+素材及服务仍适用其各自的许可和服务条款，本协议不改变第三方权利。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+二、免费授权
+
+在遵守本协议全部条件的前提下，任何人均可免费获取、阅读、运行、复制、
+研究和修改本软件，用于个人使用、学习交流及非商业二次开发；亦可免费
+分享原版或修改版。上述活动均必须限于非商业目的。
+
+三、禁止任何商业用途
+
+本协议不授予任何商业使用权。不得直接或间接将本软件或基于本软件的
+修改版、衍生作品用于商业目的，无论是否向最终用户直接收费，包括但不限于：
+
+1. 销售、出租、付费下载、付费授权、转售或有偿分发本软件及其衍生作品；
+2. 将其用于付费课程、收费培训、收费教学、商业咨询或其他收费服务；
+3. 提供收费部署、定制开发、代运营、托管、订阅服务或 SaaS 服务；
+4. 集成到商业产品、付费应用、商业网站或商业平台中；
+5. 利用本软件及其衍生作品进行广告变现、商业推广、获客引流或其他直接、
+   间接营利活动；
+6. 用于企业、机构或个人的商业经营、生产或内部业务活动。
+
+免费提供给最终用户、未实际盈利、改名、修改代码或二次开发，均不豁免
+上述商业使用限制。
+
+四、修改与再分发条件
+
+1. 必须保留作者署名、版权声明和本协议全文，不得移除或掩盖原作者信息。
+2. 修改版必须明确标注已作修改，不得冒充原作者或官方版本。
+3. 分发本软件或基于本软件的修改版、衍生作品时，须同时提供相应源代码，
+   并以本协议的相同条件提供；个人私下修改而不分发时，无须公开修改内容。
+4. 不得通过再授权、附加条款或其他方式取消“禁止任何商业用途”的限制。
+5. 本协议不授予作者姓名、商标、标识的商业使用权，也不表示作者对修改版
+   或其他产品、服务提供认可或背书。
+
+五、免责声明与终止
+
+本软件按“现状”提供。在适用法律允许的范围内，作者不提供任何明示或
+默示保证，包括适销性、特定用途适用性及不侵权保证；作者不对使用、无法
+使用或分发本软件产生的损失承担责任。
+
+违反本协议的，本协议授予的相关权利自动终止，违规者应停止相关使用和
+分发。未明确授予的权利由相应权利人保留。
+
+六、版本与历史授权
+
+本协议自随附本协议的版本发布起适用，不追溯撤销此前版本已经合法授予
+的权利。此前按 MIT 许可证发布的版本，其既有授权不因本次许可变更而
+自动撤销。第三方作品的原有许可亦不受影响。
+
+本项目属于“源码公开、仅限非商业使用”的项目；由于限制商业用途，本协议
+不是经 OSI 认可的开放源代码许可证。
+
+简要说明：个人使用、学习、非商业二次开发免费；禁止任何商业用途。
+本说明不替代上述完整条款。
