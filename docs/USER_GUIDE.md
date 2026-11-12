@@ -1,5 +1,7 @@
 # 使用指南 · 竹林语文大作战
 
+> 使用范围：个人使用、学习、非商业二次开发免费；**禁止任何商业用途**。修改与再分发须遵守 [LICENSE](../LICENSE)，保留作者署名、版权声明和相同的非商业限制。
+
 ## 1. 下载并打开
 
 1. 进入 [Chinese-study-game 仓库](https://github.com/cyberdaddyleo/Chinese-study-game)，点击 **Code → Download ZIP**，或直接 [下载项目 ZIP](https://github.com/cyberdaddyleo/Chinese-study-game/archive/refs/heads/main.zip)。
